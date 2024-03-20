@@ -41,7 +41,7 @@ email = "mail@svenmilewski.de"
 
 ## Extras
 [params.extra]
-copyright = "© 2023. Sven Milewski. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2024. Sven Milewski. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
